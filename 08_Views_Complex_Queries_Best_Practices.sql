@@ -1,5 +1,5 @@
 -- =====================================================
--- MYSQL LEARNING SERIES - FILE 8 (OFFICIAL & PERFECT)
+-- MYSQL LEARNING SERIES - FILE 8
 -- Topic: VIEWS • Complex Reusable Queries • Production Best Practices
 -- This file follows the exact same gold-standard structure as File 7
 -- =====================================================

@@ -1,5 +1,5 @@
 -- =====================================================
--- MYSQL LEARNING SERIES - FILE 9 (ULTIMATE SENIOR MASTERCLASS)
+-- MYSQL LEARNING SERIES - FILE 9
 -- FULL COVERAGE: INDEXES • TRANSACTIONS • WINDOW FUNCTIONS • CTEs • EXPLAIN • RECURSIVE CTE
 -- This is the file that turns you into a Senior Backend Engineer
 -- =====================================================
