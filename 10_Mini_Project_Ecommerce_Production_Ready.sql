@@ -1,7 +1,6 @@
 -- =====================================================
 -- MYSQL LEARNING SERIES - FILE 10
 -- Complete Production-Ready E-Commerce Database
--- Every single line explained in detail – exactly like Files 1–9
 -- =====================================================
 
 -- ===================================================================

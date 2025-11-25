@@ -2,7 +2,6 @@
 -- MYSQL LEARNING SERIES - FILE 5 
 -- Topic: Functions • ORDER BY • LIMIT • LIKE • Aggregate • GROUP BY • HAVING
 -- Includes: Execution Order + Monster Query + Deep GROUP BY/HAVING Theory
--- Practice First → Solutions at Bottom
 -- =====================================================
 
 -- ===================================================================

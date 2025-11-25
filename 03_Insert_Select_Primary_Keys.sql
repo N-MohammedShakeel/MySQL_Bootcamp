@@ -1,7 +1,6 @@
 -- =====================================================
 -- MYSQL LEARNING SERIES - FILE 3
 -- Topic: INSERT + SELECT + PRIMARY KEY + AUTO_INCREMENT
--- Exactly as per original syllabus – nothing extra
 -- =====================================================
 
 -- ===================================================================
